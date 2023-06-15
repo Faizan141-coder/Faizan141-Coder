@@ -24,7 +24,7 @@ I am Muhammad Faizan Hasnaat, and I love to code 😊.
     </td>
     <td>
       <!-- Resume -->
-      <a href="https://github.com/Faizan141-coder/Resume/blob/main/CV.pdf"><img src="assets/CV.svg" alt="Resume" width="45px" title="Resume"></a>
+      <a href="https://drive.google.com/file/d/1FskNOqYCGX5pkhqBJnAzq3Et0ieEJOx9/view?usp=sharing"><img src="assets/CV.svg" alt="Resume" width="45px" title="Resume"></a>
     </td>
   </tr>
 </table>
