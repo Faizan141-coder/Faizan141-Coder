@@ -200,7 +200,7 @@ I am Muhammad Faizan Hasnaat, and I love to code 😊.
   <tr>
     <td>
       <!-- WordPress -->
-     <img width='45px' src='https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg' alt='WordPress' title='WordPress'>  
+     <img width='45px' src='assets/wordpress.svg' alt='WordPress' title='WordPress'>  
     </td>
     <td>
       <!-- Wix -->
