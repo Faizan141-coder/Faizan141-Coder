@@ -82,10 +82,6 @@ I am Muhammad Faizan Hasnaat, and I love to code 😊.
       <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg' alt='Material UI' title='Material UI'>  
     </td>
     <td>
-     <!-- SCSS -->
-      <img width='45px' src='assets/scss.svg' alt='SCSS' title='SCSS'>  
-    </td>
-    <td>
      <!-- Node JS -->
       <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg' alt='Node.js' title='Node JS'>  
     </td>
@@ -140,6 +136,10 @@ I am Muhammad Faizan Hasnaat, and I love to code 😊.
      <td>
       <!-- Nginx -->
       <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg' alt='Nginx' title='Nginx'>  
+    </td>
+    <td>
+      <!-- Docker -->
+      <img width='45px' src='assets/docker.svg' alt='Docker' title='Docker'>  
     </td>
   </tr>
 
