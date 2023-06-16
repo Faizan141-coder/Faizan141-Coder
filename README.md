@@ -85,10 +85,6 @@ I am Muhammad Faizan Hasnaat, and I love to code 😊.
      <!-- SCSS -->
       <img width='45px' src='assets/scss.svg' alt='SCSS' title='SCSS'>  
     </td>
-  </tr>
-  
-  <!-- Row 2 -->
-  <tr>
     <td>
      <!-- Node JS -->
       <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg' alt='Node.js' title='Node JS'>  
@@ -111,7 +107,7 @@ I am Muhammad Faizan Hasnaat, and I love to code 😊.
     </td>
   </tr>
 
-  <!-- Row 3 -->
+  <!-- Row 2 -->
   <tr>
     <td>
       <!-- MongoDB -->
@@ -123,7 +119,7 @@ I am Muhammad Faizan Hasnaat, and I love to code 😊.
     </td>
   </tr>
 
- <!-- Row 4 -->
+ <!-- Row 3 -->
   <tr>
     <td>
       <!-- Heroku -->
