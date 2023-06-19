@@ -145,6 +145,10 @@ I am Muhammad Faizan Hasnaat, and I love to code 😊.
       <!-- Docker -->
       <img width='45px' src='assets/docker.svg' alt='Docker' title='Docker'>  
     </td>
+    <td>
+      <!-- Vercel -->
+      <img width='45px' src='assets/Vercel.png' alt='Vercel' title='Vercel'>  
+    </td>
   </tr>
 
 </table>
@@ -258,9 +262,11 @@ I am Muhammad Faizan Hasnaat, and I love to code 😊.
 
 <table>
   <tr>
+    <!-- Most Used Languages -->
     <td>
       <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan141-coder&count_private=true&layout=compact&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515&langs_count=10" />
     </td>
+    <!-- Github Stats -->
     <td>
       <img width="350px" src="https://github-readme-stats.vercel.app/api/?username=Faizan141-coder&show_icons=true&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515" />
     </td>
