@@ -113,6 +113,10 @@ I am Muhammad Faizan Hasnaat, and I love to code 😊.
       <!-- MySQL -->
       <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg' alt='MySQL' title='MySQL'>
     </td>
+    <td>
+      <!-- Postgre SQL -->
+      <img width='45px' src='assets/postgre-sql.png' alt='PostgreSQL' title='PostgreSQL'>
+    </td>
   </tr>
 
  <!-- Row 3 -->
@@ -228,6 +232,14 @@ I am Muhammad Faizan Hasnaat, and I love to code 😊.
     <td>
       <!-- Progress -->
        🔵🔵🔵🔵⚪️⚪️⚪️⚪️⚪️⚪️
+    </td> 
+    <!-- PostgreSQL -->
+    <td>
+      <img width="45px" src="assets/postgre-sql.png" alt="PostgreSQL" title="PostgreSQL">
+    </td>
+    <td>
+      <!-- Progress -->
+       🔵🔵⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
     </td>
   </tr>
   <tr>
