@@ -233,6 +233,8 @@ I am Muhammad Faizan Hasnaat, and I love to code 😊.
       <!-- Progress -->
        🔵🔵🔵🔵⚪️⚪️⚪️⚪️⚪️⚪️
     </td> 
+  </tr>
+  <tr>
     <!-- PostgreSQL -->
     <td>
       <img width="45px" src="assets/postgre-sql.png" alt="PostgreSQL" title="PostgreSQL">
@@ -241,8 +243,6 @@ I am Muhammad Faizan Hasnaat, and I love to code 😊.
       <!-- Progress -->
        🔵🔵⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
     </td>
-  </tr>
-  <tr>
     <td>
      <!-- Material UI -->
       <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg' alt='Material UI' title='Material UI'>  
