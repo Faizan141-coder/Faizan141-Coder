@@ -117,6 +117,10 @@ I am Muhammad Faizan Hasnaat, and I love to code 😊.
       <!-- Postgre SQL -->
       <img width='45px' src='assets/postgre-sql.png' alt='PostgreSQL' title='PostgreSQL'>
     </td>
+    <td>
+      <!-- Prsima -->
+      <img width='45px' src='assets/prisma.png' alt='Prsima' title='Prsima'>
+    </td>
   </tr>
 
  <!-- Row 3 -->
