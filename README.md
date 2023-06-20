@@ -233,6 +233,16 @@ I am Muhammad Faizan Hasnaat, and I love to code 😊.
       <!-- Progress -->
        🔵🔵🔵🔵🔵⚪️⚪️⚪️⚪️⚪️
     </td>
+    <!-- PostgreSQL -->
+    <td>
+      <img width="45px" src="assets/postgre-sql.png" alt="PostgreSQL" title="PostgreSQL">
+    </td>
+    <td>
+      <!-- Progress -->
+       🔵🔵🔵🔵🔵🔵🔵⚪️⚪️⚪️
+    </td> 
+  </tr>
+  <tr>
     <!-- Tailwind CSS -->
     <td>
       <img width="45px" src="assets/tailwindcss-plain.svg" alt="Tailwind" title="Tailwind">
@@ -240,16 +250,6 @@ I am Muhammad Faizan Hasnaat, and I love to code 😊.
     <td>
       <!-- Progress -->
        🔵🔵🔵🔵⚪️⚪️⚪️⚪️⚪️⚪️
-    </td> 
-  </tr>
-  <tr>
-    <!-- PostgreSQL -->
-    <td>
-      <img width="45px" src="assets/postgre-sql.png" alt="PostgreSQL" title="PostgreSQL">
-    </td>
-    <td>
-      <!-- Progress -->
-       🔵🔵⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
     </td>
     <td>
      <!-- Material UI -->
@@ -258,6 +258,16 @@ I am Muhammad Faizan Hasnaat, and I love to code 😊.
     <td>
       <!-- Progress -->
        🔵🔵⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
+    </td>
+  </tr>
+  <tr>
+    <!-- Prisma -->
+    <td>
+      <img width="45px" src="assets/prisma.png" alt="Prisma" title="Prisma">
+    </td>
+    <td>
+      <!-- Progress -->
+       🔵🔵🔵⚪️⚪️⚪️⚪️⚪️⚪️⚪️
     </td>
   </tr>
 </table>
