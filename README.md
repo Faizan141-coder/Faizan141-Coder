@@ -47,6 +47,10 @@ I am Muhammad Faizan Hasnaat, and I love to code 😊.
      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' alt='JavaScript' title='JavaScript'>
     </td>
     <td>
+      <!-- TypeScript -->
+     <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg' alt='TypeScript' title='TypeScript'>
+    </td>
+    <td>
       <!-- Java -->
       <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg' alt='Java' title='Java'>
     </td>
