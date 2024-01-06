@@ -24,7 +24,7 @@ I am Muhammad Faizan Hasnaat, and I love to code 😊.
     </td>
     <td>
       <!-- Resume -->
-      <a href="[https://drive.google.com/file/d/1FskNOqYCGX5pkhqBJnAzq3Et0ieEJOx9/view?usp=sharing](https://drive.google.com/file/d/1BG6f4dafNgEtCA2C1xigCt19iYMruKxi/view?usp=sharing)"><img src="assets/CV.svg" alt="Resume" width="45px" title="Resume"></a>
+      <a href="https://drive.google.com/file/d/1FskNOqYCGX5pkhqBJnAzq3Et0ieEJOx9/view"><img src="assets/CV.svg" alt="Resume" width="45px" title="Resume"></a>
     </td>
   </tr>
 </table>
